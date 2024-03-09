@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @promiseepelle1999
-- 👀 I’m interested in Web Development and Graphic Design.
-- 🌱 I’m currently learning HTML5 and CSS.
+- 👋 Hi, I’m @Promise Sokie
+- 👀 I’ve started my journey in DevOps.
+- 🌱
 - 💞️ I’m looking to collaborate on Web Design and Launching.
 - 📫 How to reach me soproepelle@yahoo.com or soproepellepromise@gmail.com
 
