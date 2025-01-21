@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Promise Sokie
 - 👀 I’ve started my journey in DevOps.
 - 🌱
-- 💞️ I’m looking to collaborate on Web Design and Launching.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me soproepelle@yahoo.com or soproepellepromise@gmail.com
 
 <!---
